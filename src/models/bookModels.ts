@@ -12,7 +12,7 @@ export class Book {
       this.title = title;
       this.author = author;
       this.publicationYear = publicationYear;
-      this.available = true; // Books are available by default when added
+      this.available = true; 
     }
   }
   

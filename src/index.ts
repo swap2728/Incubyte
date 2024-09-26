@@ -1,4 +1,4 @@
-// src/index.ts
+// src/index.ts  (MY main index file)
 
 import app from './app';
 
